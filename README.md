@@ -6,22 +6,25 @@ _I like to imagine this repo as an online bookmarks manager_
 
 * The Odin Project (https://www.theodinproject.com/)
 
-Free top quality lessons that are supported by a passionate open source community.
+    Free top quality lessons that are supported by a passionate open source community.
 
 # Career decisions & Social impact
 
 * 80.000 Hours (https://www.80000hours.org)
 
-VERY high quality of information.
+    VERY high quality of information.
 
 # Long texts about very important issues in life
 
 * Wait but Why (https://www.waitbutwhy.com)
 
-Gotta love this guy.
+    Gotta love this guy.
 
 # Music
 
+* Dewtone (www.dewtone.com)
+    Miminal, ambient, electronic, deep-house etc., 24/7 stream with eclectic vibes and gentle intentions. All you would ever need to study/focus/code.
+
 * Bird is the Worm (httpss://www.birdistheworm.com)
- 
+
  The modern-jazz paradise. THANK YOU Dave Summer!
