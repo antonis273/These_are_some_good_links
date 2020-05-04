@@ -26,6 +26,10 @@ _I like to imagine this repo as an online bookmarks manager_
 
     Miminal, ambient, electronic, deep-house etc., 24/7 stream with eclectic vibes and gentle intentions. All you would ever need to study/focus/code.
 
+* FIP (www.fip.fr)
+
+    Funk, soul, eclectic, delicious world music and more from an excellent french radio station. Besides the main one, there are also subgenre streams.
+
 * Bird is the Worm (httpss://www.birdistheworm.com)
 
      The modern-jazz paradise. THANK YOU Dave Summer!
