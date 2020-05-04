@@ -3,14 +3,12 @@
 _I like to imagine this repo as an online bookmarks manager_
 
 # Web Development
-and how to learn it 
 
 * The Odin Project (https://www.theodinproject.com/)
 
 Free top quality lessons that are supported by a passionate open source community.
 
-# Career decisions 
-and contributing meaningfuly to a weird world (and why WebDev is useful)
+# Career decisions & Social impact
 
 * 80.000 Hours (https://www.80000hours.org)
 
