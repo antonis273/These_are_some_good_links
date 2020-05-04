@@ -23,8 +23,9 @@ _I like to imagine this repo as an online bookmarks manager_
 # Music
 
 * Dewtone (www.dewtone.com)
+
     Miminal, ambient, electronic, deep-house etc., 24/7 stream with eclectic vibes and gentle intentions. All you would ever need to study/focus/code.
 
 * Bird is the Worm (httpss://www.birdistheworm.com)
 
- The modern-jazz paradise. THANK YOU Dave Summer!
+     The modern-jazz paradise. THANK YOU Dave Summer!
