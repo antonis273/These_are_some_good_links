@@ -20,7 +20,7 @@ VERY high quality of information.
 
 Gotta love this guy.
 
-# MUSIC
+# Music
 
 * Bird is the Worm (httpss://www.birdistheworm.com)
  
