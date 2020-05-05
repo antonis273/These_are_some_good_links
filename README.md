@@ -32,7 +32,7 @@ _I like to imagine this repo as an online bookmarks manager_
 
 * Nessradio (www.nessradio.com)
    
-    Positive vibes & alternative indie music. #beats #soul #crossover #electro #jazz 
+    Positive vibes & alternative indie music. #beats #soul #crossover #electro #jazz. 
     What's more cool than a webradio station from Marrakech, Marocco?
 
 * Bird is the Worm (www.birdistheworm.com)
