@@ -28,7 +28,7 @@ _I like to imagine this repo as an online bookmarks manager_
 
 * FIP (www.fip.fr)
 
-    Funk, soul, eclectic, delicious world music and more from an excellent french radio station. Besides the main one, there are also subgenre streams. Miinimal to non-existent talking and no ads at all.
+    Funk, soul, eclectic, delicious world music and more from an excellent French radio station. Besides the main one, there are also subgenre streams. Miinimal to non-existent talking and no ads at all.
 
 * Nessradio (www.nessradio.com)
    
