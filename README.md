@@ -28,7 +28,12 @@ _I like to imagine this repo as an online bookmarks manager_
 
 * FIP (www.fip.fr)
 
-    Funk, soul, eclectic, delicious world music and more from an excellent french radio station. Besides the main one, there are also subgenre streams.
+    Funk, soul, eclectic, delicious world music and more from an excellent french radio station. Besides the main one, there are also subgenre streams. Miinimal to non-existent talking and no ads at all.
+
+* Nessradio (www.nessradio.com)
+   
+    Positive vibes & alternative indie music. #beats #soul #crossover #electro #jazz 
+    What's more cool than a webradio station from Marrakech, Marocco?
 
 * Bird is the Worm (www.birdistheworm.com)
 
